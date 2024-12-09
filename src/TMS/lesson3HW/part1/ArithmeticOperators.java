@@ -1,4 +1,4 @@
-package lesson3HW.part1;
+package TMS.lesson3HW.part1;
 
 
 public class ArithmeticOperators {

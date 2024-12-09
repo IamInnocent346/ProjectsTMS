@@ -1,4 +1,4 @@
-package lesson3HW.part2;
+package TMS.lesson3HW.part2;
 import java.util.Scanner;
 
 public class Operators {
